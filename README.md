@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/thousight/Expo-TS-Starter.svg?branch=master)](https://travis-ci.org/thousight/Expo-TS-Starter) [![Coverage Status](https://coveralls.io/repos/github/thousight/Expo-TS-Starter/badge.svg)](https://coveralls.io/github/thousight/Expo-TS-Starter)
+[![Build Status](https://travis-ci.org/thousight/Expo-TS-Starter.svg?branch=master)](https://travis-ci.org/thousight/Expo-TS-Starter) [![Coverage Status](https://coveralls.io/repos/github/thousight/Expo-TS-Starter/badge.svg)](https://coveralls.io/github/thousight/Expo-TS-Starter) [![Greenkeeper badge](https://badges.greenkeeper.io/thousight/Expo-TS-Starter.svg)](https://greenkeeper.io/)
 
 # Expo-TS-Starter
 
