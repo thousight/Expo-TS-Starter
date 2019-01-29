@@ -2,7 +2,7 @@
 
 # Expo-TS-Starter
 
-An Expo 31 boilerplate that uses TypeScript.
+An Expo 32 boilerplate that uses TypeScript.
 
 ### Pre-Requisites
 
