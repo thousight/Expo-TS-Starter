@@ -13,6 +13,7 @@ jobs:
       script:
         - yarn test --ci
     - stage: deploy
+      if: branch = master
       node_js: lts/*
       script:
         - yarn semantic-release

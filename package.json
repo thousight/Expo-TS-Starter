@@ -1,5 +1,5 @@
 {
-  "name": "idea-boards",
+  "name": "expo-ts-starter",
   "main": "node_modules/expo/AppEntry.js",
   "private": false,
   "scripts": {
@@ -11,19 +11,20 @@
     "test": "node_modules/.bin/jest",
     "test:watch": "yarn test --watch",
     "test:coverage": "yarn test --coverage && open coverage/lcov-report/index.html",
-    "eslint": "eslint './src/**/*.js'",
+    "tslint": "tslint '*.ts'",
     "lint-staged": "lint-staged",
     "semantic-release": "semantic-release",
     "preinstall": "node scripts/pre-install.js"
   },
   "dependencies": {
+    "@types/expo": "^31.0.8",
+    "@types/react": "^16.7.22",
+    "@types/react-native": "^0.57.32",
     "expo": "^31.0.2",
     "formik": "^1.4.2",
     "native-base": "^2.10.0",
-    "prop-types": "^15.6.2",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-    "react-native-markdown-renderer": "^3.2.8",
     "react-navigation": "^3.0.9"
   },
   "devDependencies": {
@@ -31,23 +32,23 @@
     "@semantic-release/git": "^7.0.8",
     "@semantic-release/npm": "^5.1.4",
     "@semantic-release/release-notes-generator": "^7.1.4",
-    "babel-eslint": "^10.0.1",
-    "babel-preset-expo": "^5.0.0",
-    "eslint": "^5.12.1",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-config-prettier": "^3.6.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jest": "^22.1.3",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-prettier": "^3.0.1",
-    "eslint-plugin-react": "^7.12.4",
+    "@types/enzyme": "^3.1.16",
+    "@types/enzyme-adapter-react-16": "^1.0.3",
+    "@types/jest": "^23.3.13",
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.8.0",
     "expo-cli": "^2.6.14",
     "husky": "^1.3.1",
     "jest-expo": "^32.0.0",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.3",
-    "react-test-renderer": "^16.7.0",
+    "react-dom": "^16.7.0",
     "semantic-release": "^15.13.3",
-    "semantic-release-expo": "^2.1.1"
+    "semantic-release-expo": "^2.1.1",
+    "ts-jest": "^23.10.5",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-react": "^3.6.0",
+    "typescript": "^3.2.4"
   }
 }

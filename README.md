@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/thousight/Idea-Boards.svg?branch=master)](https://travis-ci.org/thousight/Idea-Boards)
+[![Build Status](https://travis-ci.org/thousight/Expo-TS-Starter.svg?branch=master)](https://travis-ci.org/thousight/Expo-TS-Starter)
 
-# Idea Boards
+# Expo-TS-Starter
 
-An app that helps save your app ideas
+An Expo 31 boilerplate that uses TypeScript.
 
 ### Pre-Requisites
 
