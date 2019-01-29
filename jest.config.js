@@ -4,7 +4,7 @@ module.exports = {
     '\\.js$': '<rootDir>/node_modules/react-native/jest/preprocessor.js',
     '.*.tsx?$': 'ts-jest',
   },
-  setupTestFrameworkScriptFile: './jest-configs/mocks/index.js',
+  setupTestFrameworkScriptFile: './jest-configs/index.js',
   testRegex: '(/__tests__/.*|(\\.|/)(test|spec))\\.tsx?$',
   testMatch: null,
   moduleFileExtensions: ['js', 'jsx', 'json', 'ts', 'tsx'],
