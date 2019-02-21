@@ -24,7 +24,7 @@
     "expo": "^32.0.2",
     "formik": "^1.4.2",
     "native-base": "^2.10.0",
-    "react": "16.8.2",
+    "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
     "react-navigation": "^3.0.9"
   },
@@ -44,7 +44,7 @@
     "jest-expo": "^32.0.0",
     "lint-staged": "^8.1.0",
     "prettier": "^1.15.3",
-    "react-dom": "^16.8.2",
+    "react-dom": "^16.8.3",
     "schedule": "0.4.0",
     "semantic-release": "^15.13.3",
     "semantic-release-expo": "^2.1.1",
