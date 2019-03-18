@@ -3,8 +3,10 @@
   "rules": {
     "no-console": false,
     "semicolon": false,
+    "member-access": false,
     "ordered-imports": false,
-    "quotemark": [true, "single"]
+    "object-literal-sort-keys": false,
+    "quotemark": [true, "single", "jsx-double"]
   },
   "rulesDirectory": ["tslint-plugin-prettier"]
 }
