@@ -35,7 +35,7 @@
     "@semantic-release/release-notes-generator": "^7.1.4",
     "@types/enzyme": "^3.1.16",
     "@types/enzyme-adapter-react-16": "^1.0.3",
-    "@types/jest": "^24.0.0",
+    "@types/jest": "^24.0.25",
     "coveralls": "^3.0.2",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.11.1",
