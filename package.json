@@ -20,7 +20,7 @@
   "dependencies": {
     "@types/expo": "^32.0.13",
     "@types/react": "^16.8.7",
-    "@types/react-native": "^0.57.32",
+    "@types/react-native": "^0.61.23",
     "expo": "^33.0.4",
     "formik": "^1.4.2",
     "native-base": "^2.12.1",
