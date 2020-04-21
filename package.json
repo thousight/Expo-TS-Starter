@@ -43,7 +43,7 @@
     "husky": "^3.0.0",
     "jest-expo": "^33.0.2",
     "lint-staged": "^8.1.0",
-    "prettier": "^1.15.3",
+    "prettier": "^2.0.5",
     "react-dom": "^16.8.6",
     "schedule": "0.4.0",
     "semantic-release": "^15.13.3",
