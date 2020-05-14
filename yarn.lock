@@ -1913,12 +1913,19 @@
   resolved "https://registry.yarnpkg.com/@types/qs/-/qs-6.5.3.tgz#1c3b71b091eaeaf5924538006b7f70603ce63d38"
   integrity sha512-Jugo5V/1bS0fRhy2z8+cUAHEyWOATaz4rbyLVvcFs7+dXp5HfwpEwzF1Q11bB10ApUqHf+yTauxI0UXQDwGrbA==
 
-"@types/react-native@*", "@types/react-native@^0.57.32":
+"@types/react-native@*":
   version "0.57.59"
   resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.57.59.tgz#84d634dc95932c2fa9f16c229fb891af1bd3c28f"
   integrity sha512-yPqLbvb4kkz/G3Twx4trEchhalAzOGPXhA3I0uM/6XRBG3fZ3sZ5iAceNOd4fhNGn61g6yuwWjFwy/3hWKj4LA==
   dependencies:
     "@types/prop-types" "*"
+    "@types/react" "*"
+
+"@types/react-native@^0.62.9":
+  version "0.62.9"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.62.9.tgz#f75d4a8879e68ed3857d6f2f73dc0752a0505362"
+  integrity sha512-OcoE7SKz1PsvTGJK5fIwJu6kWdDFN+hH1vMI4GVTEBYhV5FAM5vKVUFCaSiEPJScyNyIEWAeQwFvI3a01+Grzg==
+  dependencies:
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^16.8.7":
